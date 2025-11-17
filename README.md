@@ -1,5 +1,4 @@
-Here is a clean, professional **GitHub-ready README.md** for your project.
-You can copy-paste directly into your GitHub repository 👇🔥
+Drive Link : https://drive.google.com/drive/folders/1a5yyuzkSfjJyllESqWTf-fkCa2-UNHwh?usp=sharing
 
 ---
 
@@ -122,14 +121,8 @@ tamil-painting-project/
 
 ## 🛠 Installation
 
-### **1. Clone Repository**
 
-```bash
-git clone https://github.com/yourusername/tamil-painting-restoration.git
-cd tamil-painting-restoration
-```
-
-### **2. Install Requirements**
+### **1. Install Requirements**
 
 ```bash
 pip install -r requirements.txt
@@ -218,12 +211,4 @@ This project bridges **digital art preservation** and **machine intelligence**, 
 Pull requests are welcome!
 If you'd like new features (CNN classifier, GAN restoration, UI improvements), feel free to ask.
 
----
 
-If you want, I can also generate:
-📌 README cover banner
-📌 Repo folder icons
-📌 A shorter GitHub description
-📌 Commit message suggestions
-
-Just tell me!
